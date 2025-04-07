@@ -1,8 +1,8 @@
-# Hello 👋🏼, I'm Marcin!
+![Header](./github-header-image.png)
 
 ## 🌐 Socials:
 
-[![](https://marcin-hercog.netlify.app/favicon.ico)](https://marcin-hercog.netlify.app)
+[![My website](https://marcin-hercog.netlify.app/favicon.ico)](https://marcin-hercog.netlify.app)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marcin-hercog)
 
@@ -17,5 +17,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mkphercog&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ![](https://komarev.com/ghpvc/?username=mkphercog&label=Profile%20views&color=0e75b6&style=flat)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
